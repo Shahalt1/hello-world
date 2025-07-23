@@ -11,6 +11,6 @@ A simple composite GitHub Action to print a greeting.
 ## Usage
 
 ```yaml
-uses: your-username/hello-world-action@v1
+uses: Shahalt1/hello-world-action@v1
 with:
   name: 'Shalu'
