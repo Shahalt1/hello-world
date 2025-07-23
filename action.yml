@@ -1,4 +1,4 @@
-name: "Say Hello"
+name: "Say Hello world guyzz"
 description: "Say Hello to the world"
 author: "Shahal Thayyil"
 inputs:
@@ -16,4 +16,3 @@ runs:
     - name: "Say Goodbye"
       run: ./hello.sh "${{ inputs.name }}"
       shell: bash
-      
